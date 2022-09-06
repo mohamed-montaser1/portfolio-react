@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.0c73486b.css",
+    "main.js": "/portfolio-react/static/js/main.a2a4f032.js",
+    "static/js/787.8d4efb73.chunk.js": "/portfolio-react/static/js/787.8d4efb73.chunk.js",
+    "static/media/landing-img.jpg": "/portfolio-react/static/media/landing-img.d26d7e6d09938164a2d9.jpg",
+    "static/media/Portfolio-Landing.jpg": "/portfolio-react/static/media/Portfolio-Landing.5cf21c9c7701ac144fc5.jpg",
+    "static/media/About-Landing.jpg": "/portfolio-react/static/media/About-Landing.2df3ff652ec8ccec6155.jpg",
+    "static/media/about-me-two.jpg": "/portfolio-react/static/media/about-me-two.6b4c8d73a6dbae21008c.jpg",
+    "static/media/about-me-one.jpg": "/portfolio-react/static/media/about-me-one.4e45d25b54c2baf25386.jpg",
+    "static/media/about.png": "/portfolio-react/static/media/about.733e942d020931fa7274.png",
+    "static/media/Contact-Landing.jpg": "/portfolio-react/static/media/Contact-Landing.8347760ed0673fcb1e97.jpg",
+    "static/media/Reey-Regular.otf": "/portfolio-react/static/media/Reey-Regular.c24922b249304997960c.otf",
+    "static/media/logo.png": "/portfolio-react/static/media/logo.89c882da05bb6c4aa30c.png",
+    "static/media/rest.jpg": "/portfolio-react/static/media/rest.97d9ed3cc6fba720ea8d.jpg",
+    "static/media/timer.jpg": "/portfolio-react/static/media/timer.b1ea113d70e130286eaa.jpg",
+    "static/media/App-Land.jpg": "/portfolio-react/static/media/App-Land.820c6d718c6c8e2bd5bc.jpg",
+    "static/media/product.jpg": "/portfolio-react/static/media/product.46eeb68a156bd1ca3f16.jpg",
+    "static/media/company-website.jpg": "/portfolio-react/static/media/company-website.4fe13942ebe77b099125.jpg",
+    "static/media/certificate-one.jpg": "/portfolio-react/static/media/certificate-one.41695b49f70662a85416.jpg",
+    "static/media/certificate-two.jpg": "/portfolio-react/static/media/certificate-two.ddd7058a59ca8e93a290.jpg",
+    "static/media/cleancode.webp": "/portfolio-react/static/media/cleancode.0e21d2f76eeec17fd056.webp",
+    "static/media/magic-wand-svgrepo-com.svg": "/portfolio-react/static/media/magic-wand-svgrepo-com.646c6b0f37791c3676c7f98038296ae7.svg",
+    "static/media/web-design-svgrepo-com.svg": "/portfolio-react/static/media/web-design-svgrepo-com.926abf6fbef40d77fcf6be3a240d234b.svg",
+    "static/media/database-svgrepo-com.svg": "/portfolio-react/static/media/database-svgrepo-com.0e0c93321bf00d86277adba4ae007068.svg",
+    "static/media/pen-svgrepo-com.svg": "/portfolio-react/static/media/pen-svgrepo-com.373fc39af084fc08a25191ba08a25119.svg",
+    "index.html": "/portfolio-react/index.html",
+    "static/media/html5-svgrepo-com.svg": "/portfolio-react/static/media/html5-svgrepo-com.84c6adac417775a66b5529f1ae8d4572.svg",
+    "static/media/times-icon.svg": "/portfolio-react/static/media/times-icon.21cc7e39915855e6157ab1ba1187adfc.svg",
+    "main.0c73486b.css.map": "/portfolio-react/static/css/main.0c73486b.css.map",
+    "main.a2a4f032.js.map": "/portfolio-react/static/js/main.a2a4f032.js.map",
+    "787.8d4efb73.chunk.js.map": "/portfolio-react/static/js/787.8d4efb73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c73486b.css",
+    "static/js/main.a2a4f032.js"
+  ]
+}
