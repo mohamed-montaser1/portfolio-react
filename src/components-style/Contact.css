@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo&display=swap");
+@import "../App.css";
+
+.contact {
+  min-height: 70vh;
+  margin: 100px 0;
+}
+
+.contact .col-sm-12 {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact textarea {
+  min-height: 200px !important;
+}
+
+.contact :is(input, textarea) {
+  background: #181818 !important;
+  box-shadow: none;
+  border: none;
+  border-radius: 3px !important;
+  font-family: "Cairo", sans-serif;
+  color: rgb(224, 224, 224) !important;
+}
+
+.contact .btn {
+  padding: 10px 35px;
+}

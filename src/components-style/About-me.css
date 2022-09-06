@@ -1,0 +1,8 @@
+.about p {
+  line-height: 2;
+}
+
+.about-me .col-sm-12 {
+  display: flex;
+  align-items: center;
+}

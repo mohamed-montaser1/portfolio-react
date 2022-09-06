@@ -1,0 +1,11 @@
+@import "../App.css";
+
+.about-header {
+  background-image: linear-gradient(to top, black, transparent),
+    url("../images/About-Landing.jpg");
+}
+
+.about-header .main-text {
+  font-size: 50px !important;
+  margin-bottom: 70px;
+}

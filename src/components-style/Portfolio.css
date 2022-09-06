@@ -1,0 +1,51 @@
+@import "../App.css";
+
+.portfolio .col-sm-12 {
+  margin-bottom: 20px;
+}
+
+.portfolio .col-sm-12 .content {
+  position: relative;
+}
+
+.portfolio .col-sm-12 .content .details {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #181818;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+  color: white;
+  opacity: 0;
+  transition: all 0.4s ease-in-out;
+}
+
+.portfolio .col-sm-12 .content .details p {
+  width: 90%;
+  text-align: center;
+}
+
+.portfolio .col-sm-12 .content .details a {
+  background-color: var(--main-color);
+  border: none;
+  outline: none;
+  color: var(--body-background);
+  padding: 8px 23px;
+  border-radius: 25.5px;
+  text-decoration: none;
+}
+
+.portfolio .col-sm-12 .content:hover :is(.details) {
+  opacity: 1;
+}
+
+@media (max-width: 417px) {
+  .portfolio .col-sm-12 .content :is(.details) {
+    font-size: 2vw;
+  }
+}
+

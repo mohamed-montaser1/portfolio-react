@@ -1,0 +1,32 @@
+@import "../App.css";
+
+.container .col-12 {
+  margin: 94px 0;
+}
+
+.services .container .col-12 .col-sm-12 {
+  margin-bottom: 15px;
+}
+
+.container .col-12 .col-sm-12 .card {
+  background-color: #181818;
+  text-align: center;
+}
+
+.container .col-12 .col-sm-12 .card img {
+  width: 35%;
+  height: auto;
+  margin: 17px auto;
+}
+
+.container .col-12 .col-sm-12 .card :is(h4, p) {
+  color: whitesmoke;
+}
+
+.container .col-12 .col-sm-12 .card :is(h4) {
+  font-weight: bold;
+}
+
+.container .col-12 .col-sm-12 .card :is(p) {
+  font-weight: 300;
+}
